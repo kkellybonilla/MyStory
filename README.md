@@ -29,10 +29,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='CodePath iOS102 Project Unit 1 MyStory App Walkthrough (portrait).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='CodePath iOS102 Project Unit 1 MyStory App Walkthrough (portrait).gif' title='Portrait Video Walkthrough' width='' alt='Portrait Video Walkthrough' />
+<img src='CodePath iOS102 Project Unit 1 MyStory App Walkthrough (landscape).gif' title='Landscape Video Walkthrough' width='' alt='Landscape Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICECap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -44,7 +45,7 @@ The greatest and most-time consuming challenge I ran into during this project wa
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Kelly Bonilla Guzmán
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
