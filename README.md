@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 <img src='CodePath iOS102 Project Unit 1 MyStory App Walkthrough (landscape).gif' title='Landscape Video Walkthrough' width='' alt='Landscape Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LICECap  
+GIF created with LICEcap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
