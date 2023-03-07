@@ -19,6 +19,8 @@ class DetailViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        
+        
         if let context = context {
             contextTitle.title = context.title
             contextImageView.image = context.image
